@@ -7,7 +7,7 @@ This [folder](./stepper_motor/) contains a simple code to run the [uni-polar ste
 
 
 > [!NOTE]  
-> The project is developed from the tutorial found [here](https://www.instructables.com/Arduino-How-to-Control-a-Stepper-Motor-With-L293D-/).
+> The project follows the tutorial found [here](https://www.instructables.com/Arduino-How-to-Control-a-Stepper-Motor-With-L293D-/).
 > 
 > Other Resources
 > 
